@@ -1,3 +1,6 @@
+
+based: https://github.com/bobbyroe/flythru-wireframe-wormhole
+
 # Cosmic Tunnel
 
 Cosmic Tunnel is an immersive 3D visual experience built using Three.js, creating a surreal journey through a glowing, futuristic tunnel. This project utilizes advanced 3D geometry, lighting, and post-processing techniques to deliver a dynamic and interactive visual effect, transporting users into an otherworldly environment.
